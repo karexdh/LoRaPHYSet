@@ -7,4 +7,5 @@ Note that only minimal pre-processing is done to the captured LoRa PHY waveform 
 For more details on the metadata and parameters of the waveform and the hardware, please refer to the PDF data description file.
 
 Condition of use: plese cite the following paper 
+
 D. Huang and A. Al-Hourani, "Physical Layer Spoof Detection and Authentication for IoT Devices Using Deep Learning Methods," in IEEE Transactions on Machine Learning in Communications and Networking, vol. 2, pp. 841-854, 2024, doi: 10.1109/TMLCN.2024.3417806.
